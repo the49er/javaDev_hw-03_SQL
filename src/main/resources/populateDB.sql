@@ -1,3 +1,4 @@
+USE homework_3_1;
 
 INSERT INTO companies (name, specialization)
 VALUES

@@ -1,5 +1,6 @@
 USE homework_3_1;
-# Добавить разработчикам поле (salary - зарплата).
+# 1. Добавить разработчикам поле (salary - зарплата).
+
 ALTER TABLE developers
 ADD salary INT NOT NULL;
 
